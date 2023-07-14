@@ -11,8 +11,12 @@
             "id": "843e3b23e24d9beb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Default/Documentación/GIT/Git cheat.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Default/Documentación/GIT/Git cheat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Default/Documentación/GIT/Git cheat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Default/Documentación/GIT/Git cheat.md"
+              }
             }
           }
         ]
@@ -143,12 +151,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "843e3b23e24d9beb",
   "lastOpenFiles": [
-    "Default/Documentación/GIT/Git move a repo to other remote.md",
+    "Default/Documentación/GIT/Git clone repo in another remote.md",
+    "Default/Daily notes/Junio/2023-03-09.md",
     "Default/Documentación/DDD/DDD best resources.md",
     "Default/Documentación/DDD/DDD.md",
     "Default/Daily notes/Enero/2023-01-05.md",
@@ -157,7 +167,6 @@
     "Url's de acceso.md",
     "Default/Daily notes/Julio",
     "Default/Daily notes/Junio/2023-06-19.md",
-    "Default/Daily notes/Junio/2023-03-09.md",
     "Default/Daily notes/Junio/2023-06-12.md",
     "Default/Daily notes/Junio/2023-06-09.md",
     "Default/Daily notes/Febrero/2023-02-03.md",
