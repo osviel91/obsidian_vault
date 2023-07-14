@@ -1,0 +1,6 @@
+- No es necesario el empadronamiento
+- Se puede hacer por correo postal a la dirección de extranjería
+- Envié Certificado de nacimiento mío, de mi madre y antecedentes penales. 
+- Demoró 3 meses de asentarse (con número de expediente ficticio) y 3 meses de tramitación el expediente (con número de expediente real).
+- Hay que renovar 3 meses antes de que venza.
+- 

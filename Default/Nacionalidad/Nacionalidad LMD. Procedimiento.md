@@ -1,0 +1,5 @@
+- Solicitud en registro civil de la localidad. Dir: Pradillo 66. No es necesaria cita para llevar la documentación.
+- Enviar correo a rcmadrid.memoria@madrid.com con solicitud formal y pra consultas.
+- Conservar y adjuntar en correo anterior la foto con comprobante de recibo en registro civil.
+- Todos los trámites son con el registro civil de Madrid.
+- 

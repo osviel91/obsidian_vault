@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "0e9f6c50a471fa37",
+    "type": "split",
+    "children": [
+      {
+        "id": "ace793e908da6497",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2b244edd29d4f3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2023-02-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e67c772d570bf54f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1cc1af743c40993",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b621da19f1f24de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3455a9e715737d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee6bc048f960a013",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2271a67d8579cb60",
+    "type": "split",
+    "children": [
+      {
+        "id": "c93be6913f798b40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d34ece713d9076e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily notes/2023-02-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c53c779516cd9733",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily notes/2023-02-28.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef4b77b74ed43fd6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6321cee70838bb9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily notes/2023-02-28.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f2b244edd29d4f3d",
+  "lastOpenFiles": [
+    "Nacionalidad/Arraigo familiar. Prodedimiento.md",
+    "2023-03-09.md",
+    "Daily notes/2023-01-05.md",
+    "Daily notes/2023-01-09.md",
+    "2023-02-03.md",
+    "Daily notes/2023-01-31.md",
+    "Documentación/DDD/DDD.md",
+    "Daily notes/2023-01-17.md",
+    "Documentación/CQRS/CQRS.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

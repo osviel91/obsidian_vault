@@ -1,0 +1,3 @@
+- tldr -> ayuda sobre comandos
+- bat ->cat vitaminado
+- exa -> ls vitaminado

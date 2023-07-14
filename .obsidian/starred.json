@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Linux",
+      "path": "Default/Documentación/Linux.md"
+    },
+    {
+      "type": "file",
+      "title": "Git cheat",
+      "path": "Default/Documentación/GIT/Git cheat.md"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "ae8a4090fa726e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "718393c921afd74a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc66ccd7714bf51b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06e9df66b7a3b50d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2667809d1b794e69",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3a2a2bb01fd69ebc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b86a7ef824e17d0b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "37b5b2867a1d7841",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "706da4d5e3368832",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9890aef172eae972",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Important ideas.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b465d9aec1a7529e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Important ideas.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2d83719c40af6996",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Important ideas.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "2667809d1b794e69",
+  "lastOpenFiles": [
+    "Important ideas.md"
+  ]
+}
